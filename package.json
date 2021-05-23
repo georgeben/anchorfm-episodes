@@ -1,0 +1,25 @@
+{
+  "name": "anchor-episodes",
+  "version": "1.0.0",
+  "description": "Easily list all your Anchor FM episodes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "anchor fm"
+  ],
+  "author": "George Benjamin",
+  "homepage": "https://github.com/georgeben/anchorfm-episodes",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/georgeben/anchorfm-episodes"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "fast-xml-parser": "^3.19.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.27.0"
+  }
+}
